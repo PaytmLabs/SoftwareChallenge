@@ -16,7 +16,8 @@ User will insert text and click the button `Search` and your application will se
 
 ## Challenge 4:
 Make your application secure and personalized by making people to have to sign-up / login. Bonus points, if users will be able to reset their passwords.
-Challenge 5:
+
+## Challenge 5:
 Make your application persistent. Whatever functionality your application has, after restart, make it possible to view a history of user activity or anything else you deem necessary.
 
 ## Challenge 6:
